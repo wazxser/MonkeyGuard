@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F8FF"
+    tools:context="com.example.moon.monkeyguard.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="MonkeyGuard"
+            android:textColor="#A8A8A8"
+            android:id="@+id/title"
+            android:layout_centerInParent="true"
+            android:textSize="35dp"
+            android:layout_marginTop="25dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/r2"
+        android:layout_height="400dp"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/r1">
+
+    <com.example.moon.monkeyguard.LineView
+        android:id="@+id/line"
+        android:minWidth="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/r3"
+        android:layout_below="@+id/r2">
+
+        <Button
+            android:id="@+id/door"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/selector_btn_position_import"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:paddingBottom="6dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+            android:text="开启监测"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="70dp"/>
+
+        <Button
+            android:id="@+id/person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/selector_btn_position_import"
+            android:gravity="center"
+            android:minHeight="0dp"
+            android:paddingBottom="6dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+            android:text="来访人员"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="200dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

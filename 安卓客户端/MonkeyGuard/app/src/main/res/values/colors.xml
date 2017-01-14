@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="back">#FFFFFF</color>
+    <color name="black">#0d0c0c</color>
+    <color name="grey">#eeeeee</color>
+    <color name="button">#3CB371</color>
+    <color name="fire_back">#f6adf9</color>
+    <color name="temp_back1">#f5c7c7</color>
+    <color name="temp_back2">#ff9292</color>
+    <color name="temp_back3">#f73131</color>
+    <color name="fog_back">#B0E2FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="brown">#F4A460</color>
+    <color name="main_back">#4379f5</color>
+    <color name="temp_shape_solid">#f3f776</color>
+    <color name="fog_shape_solid">#FFDAB9</color>
+    <color name="fire_shape_solid">#FFC125</color>
+    <color name="others_shape_solid">#98FB98</color>
+    <color name="mesg_back">#878cf7</color>
+</resources>

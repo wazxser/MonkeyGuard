@@ -1,0 +1,75 @@
+[ 2016-08-26T16:39:57+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+
+[ 2016-08-26T16:40:00+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-08-26T16:40:05+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-08-26T16:40:08+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-08-26T16:40:28+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-08-26T16:40:39+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-08-26T16:40:41+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-08-26T16:40:43+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-08-26T16:40:44+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-08-26T16:40:45+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+
+[ 2016-08-26T16:40:47+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-08-26T16:40:48+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-08-26T16:40:50+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-08-26T16:40:52+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-08-26T16:41:12+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+

@@ -1,0 +1,1501 @@
+[ 2016-08-27T18:13:41+08:00 ] ::1 /monkeyguard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-08-27T18:13:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-08-27T18:13:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-08-27T18:13:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2016-08-27T18:13:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-08-27T18:13:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-08-27T18:13:58+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gallery.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 非法操作:gallery
+
+[ 2016-08-27T18:14:03+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-08-27T18:14:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-08-27T18:14:06+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-08-27T18:14:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-08-27T18:14:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-08-27T18:14:21+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2016-08-27T18:14:42+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2016-08-27T18:15:02+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-08-27T18:15:23+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-08-27T18:15:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+
+[ 2016-08-27T18:16:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-27T18:16:26+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-08-27T18:16:46+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-08-27T18:17:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-08-27T18:17:28+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-08-27T18:17:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-08-27T18:18:10+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-27T18:18:30+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-08-27T18:18:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-08-27T18:19:12+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-08-27T18:19:33+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-08-27T18:19:54+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-08-27T18:20:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-08-27T18:20:36+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2016-08-27T18:20:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-08-27T18:21:24+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-08-27T18:21:45+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-08-27T18:22:06+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-08-27T18:22:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-08-27T18:22:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-08-27T18:23:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-08-27T18:23:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-08-27T18:23:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-08-27T18:24:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-08-27T18:24:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2016-08-27T18:24:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-08-27T18:25:13+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2016-08-27T18:25:34+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-08-27T18:25:54+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-08-27T18:26:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-08-27T18:26:36+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-08-27T18:26:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-08-27T18:27:18+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-08-27T18:27:38+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-08-27T18:27:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-08-27T18:28:20+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-08-27T18:28:41+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-08-27T18:29:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-08-27T18:29:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-08-27T18:29:43+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-08-27T18:30:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-08-27T18:30:24+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-08-27T18:30:45+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2016-08-27T18:31:06+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-08-27T18:31:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-08-27T18:31:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2016-08-27T18:32:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-08-27T18:32:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+
+[ 2016-08-27T18:32:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-08-27T18:33:10+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+
+[ 2016-08-27T18:33:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-08-27T18:33:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-08-27T18:34:12+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-08-27T18:34:33+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-08-27T18:34:46+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2016-08-27T18:34:48+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+
+[ 2016-08-27T18:34:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-08-27T18:34:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-27T18:35:09+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-08-27T18:35:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+
+[ 2016-08-27T18:35:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-08-27T18:36:10+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2016-08-27T18:36:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+
+[ 2016-08-27T18:36:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-08-27T18:36:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-08-27T18:36:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+
+[ 2016-08-27T18:38:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-08-27T18:38:32+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-08-27T18:39:00+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2016-08-27T18:39:02+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-08-27T18:39:03+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+
+[ 2016-08-27T18:40:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2016-08-27T18:41:09+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-08-27T18:41:30+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-08-27T18:41:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-08-27T18:42:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-08-27T18:42:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-08-27T18:42:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2016-08-27T18:43:13+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-08-27T18:43:33+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-27T18:43:39+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-08-27T18:43:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-08-27T18:43:46+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2016-08-27T18:44:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-08-27T18:45:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-08-27T18:45:28+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-08-27T18:46:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-08-27T18:46:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/download.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+
+[ 2016-08-27T18:47:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-08-27T18:47:07+08:00 ] ::1 /monkeyguard/index.php/Home/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2016-08-27T18:47:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-08-27T18:47:18+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-08-27T18:47:25+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-08-27T18:47:25+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+
+[ 2016-08-27T18:47:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-27T18:47:28+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-27T18:48:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-08-27T18:48:21+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-08-27T18:48:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-08-27T18:48:42+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-08-27T18:48:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T18:48:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-08-27T18:48:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2016-08-27T18:48:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-08-27T18:48:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-08-27T18:50:34+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-08-27T18:50:39+08:00 ] ::1 /monkeyguard/index.php/Home/Index/about.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+ERR: 非法操作:about
+
+[ 2016-08-27T18:51:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-08-27T18:51:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2016-08-27T18:51:36+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-08-27T18:52:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-27T18:52:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-08-27T18:52:26+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-08-27T18:52:58+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-08-27T18:53:41+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-08-27T18:56:10+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-08-27T18:56:41+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T18:57:46+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-08-27T19:00:03+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-08-27T19:00:23+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-08-27T19:00:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-08-27T19:00:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/services.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 非法操作:css
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 非法操作:css
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/14.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/15.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 非法操作:js
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003802s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001050s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/14.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/15.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/11.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-08-27T19:01:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/images/13.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-08-27T19:01:32+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-08-27T19:01:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/line.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+
+[ 2016-08-27T19:02:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T19:02:25+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-08-27T19:02:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2016-08-27T19:02:33+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2016-08-27T19:05:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-08-27T19:05:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-08-27T19:06:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-08-27T19:06:03+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-08-27T19:06:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2016-08-27T19:06:06+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-08-27T19:06:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-08-27T19:06:16+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2016-08-27T19:06:17+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-08-27T19:06:19+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-08-27T19:06:20+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2016-08-27T19:06:23+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-08-27T19:06:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-08-27T19:06:53+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2016-08-27T19:06:54+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-08-27T19:06:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2016-08-27T19:06:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+
+[ 2016-08-27T19:07:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-27T19:08:16+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2016-08-27T19:08:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2016-08-27T19:08:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2016-08-27T19:11:00+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-08-27T19:11:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2016-08-27T19:11:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-08-27T19:12:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-08-27T19:12:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-08-27T19:12:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-08-27T19:12:53+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-08-27T19:12:54+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2016-08-27T19:48:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-08-27T19:48:25+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-08-27T19:48:45+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-08-27T19:49:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-08-27T19:49:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-08-27T19:49:46+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-08-27T19:49:48+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-08-27T19:49:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+
+[ 2016-08-27T19:49:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-08-27T19:49:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-08-27T19:49:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-08-27T19:50:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2016-08-27T19:50:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-08-27T19:51:37+08:00 ] ::1 /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-08-27T20:47:25+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-27T20:47:28+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-08-27T20:47:49+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-08-27T20:48:09+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2016-08-27T20:48:30+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-08-27T20:48:51+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-08-27T20:49:12+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-08-27T20:49:32+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-08-27T20:49:53+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-08-27T20:50:14+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+
+[ 2016-08-27T20:50:22+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2016-08-27T20:50:25+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2016-08-27T20:50:27+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-08-27T20:50:30+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2016-08-27T20:50:33+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2016-08-27T20:50:36+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2016-08-27T20:50:39+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+
+[ 2016-08-27T20:50:41+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-08-27T20:51:02+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-08-27T20:51:22+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-08-27T20:51:43+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-08-27T20:52:04+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-08-27T20:52:24+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+
+[ 2016-08-27T20:52:45+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+
+[ 2016-08-27T20:53:06+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-08-27T20:53:27+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-08-27T20:53:48+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-08-27T20:54:08+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2016-08-27T20:54:18+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2016-08-27T20:54:32+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-08-27T20:54:46+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-27T20:54:52+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-27T20:54:55+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2016-08-27T20:55:37+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-08-27T20:55:40+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-08-27T20:55:43+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T20:55:46+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-08-27T20:55:49+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-08-27T20:55:50+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-08-27T20:55:53+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html?id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-08-27T20:55:55+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T20:55:57+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-08-27T20:55:58+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+
+[ 2016-08-27T20:56:00+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2016-08-27T20:56:20+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-08-27T20:56:29+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-08-27T21:01:19+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-08-27T21:02:15+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2016-08-27T21:03:42+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2016-08-27T21:03:59+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2016-08-27T21:04:04+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-08-27T21:04:07+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-08-27T21:04:11+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html?id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+
+[ 2016-08-27T21:04:18+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2016-08-27T21:05:26+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-08-27T21:05:53+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-08-27T21:05:54+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2016-08-27T21:05:55+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2016-08-27T21:07:59+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2016-08-27T21:08:18+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-08-27T21:08:20+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2016-08-27T21:08:21+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2016-08-27T21:08:22+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-08-27T21:08:23+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2016-08-27T21:08:24+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-08-27T21:08:25+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-08-27T21:08:28+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2016-08-27T21:08:29+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2016-08-27T21:08:31+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2016-08-27T21:08:51+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2016-08-27T21:08:56+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-08-27T21:08:57+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-08-27T21:08:59+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2016-08-27T21:09:28+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2016-08-27T21:09:32+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/temp.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-08-27T21:09:33+08:00 ] fe80::ddba:d713:d32a:dcab /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+

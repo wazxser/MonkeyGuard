@@ -1,0 +1,523 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>MonkeyGuard</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/MonkeyGuard/Public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="/MonkeyGuard/Public/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/MonkeyGuard/Public/dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Morris Charts CSS -->
+    <link href="/MonkeyGuard/Public/vendor/morrisjs/morris.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/MonkeyGuard/Public/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <script src="/MonkeyGuard/Public/echart/js/esl/esl.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--&lt;!&ndash;[if lt IE 9]>-->
+        <!--<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>-->
+        <!--<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>-->
+    <![endif]-->
+
+
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">安全家居管理平台</a>
+            </div>
+            <!-- /.navbar-header -->
+
+            <ul class="nav navbar-top-links navbar-right">
+                <li class="dropdown">
+                <li class="divider"></li>
+                <li><a href="<?php echo U('logOut');?>"><i class="fa fa-sign-out fa-fw"></i>退出</a>
+                </li>
+                </li>
+            </ul>
+            <!-- /.navbar-top-links -->
+
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+                        <li class="sidebar-search">
+                            <div class="input-group custom-search-form">
+                                <input type="text" class="form-control" placeholder="搜索...">
+                                <span class="input-group-btn">
+                                <button class="btn btn-default" type="button">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+                            </div>
+                            <!-- /input-group -->
+                        </li>
+                        <li>
+                            <a href="<?php echo U('index');?>"><i class="fa fa-dashboard fa-fw"></i>首页</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-wrench fa-fw"></i>室内环境<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="<?php echo U('temp');?>">温度</a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo U('fire');?>">火焰</a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo U('gas');?>">可燃气体</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="<?php echo U('tables');?>?type=drop"><i class="fa fa-male fa-fw"></i> 老人检测</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-wrench fa-fw"></i> 防盗系统<span class="fa arrow"></span></a>
+                            <ul class="nav nav-second-level">
+                                <li>
+                                    <a href="<?php echo U('lists');?>">人脸识别库</a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo U('blank');?>">视频监控</a>
+                                </li>
+                                <li>
+                                    <a href="<?php echo U('doortables');?>?type=door">家门打开</a>
+                                </li>
+                            </ul>
+                            <!-- /.nav-second-level -->
+                        </li>
+                        <li>
+                            <a href="<?php echo U('Index/contact');?>"><i class="fa fa-files-o fa-fw"></i> 联系我们</a>
+                            <!-- /.nav-second-level -->
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.sidebar-collapse -->
+            </div>
+            <!-- /.navbar-static-side -->
+        </nav>
+
+        <div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">火焰传感器</h1>
+                </div>
+            </div>
+
+
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 style="margin-top: 0px; font-size: 16px"><?php echo ($dname); ?></h4>
+                            <form action="" method="GET">
+                                <div class="" data-date="" data-date-format="yyyy-mm-dd"  >
+                                    <div class="input-group custom-search-form">
+                                        <input type="date" name="day" class="form-control" placeholder="搜索..." required>
+                                        <span class="input-group-btn">
+                                        <button class="btn btn-default" type="submit">
+                                            <i class="fa fa-search"></i>
+                                        </button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="panel-body">
+                            <div class="flot-chart">
+                                <div class="flot-chart-content" id="flot-line-chart"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4><?php echo ($mname); ?>每天最高最低值对比</h4>
+                            <a href="<?php echo U('gas');?>?month=1">
+                                <button type="button" class="btn btn-outline btn-default">01月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=2">
+                                <button type="button" class="btn btn-outline btn-primary">02月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=3">
+                                <button type="button" class="btn btn-outline btn-success">03月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=4">
+                                <button type="button" class="btn btn-outline btn-info">04月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=5">
+                                <button type="button" class="btn btn-outline btn-warning">05月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=6">
+                                <button type="button" class="btn btn-outline btn-danger">06月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=7">
+                                <button type="button" class="btn btn-outline btn-default">07月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=8">
+                                <button type="button" class="btn btn-outline btn-primary">08月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=9">
+                                <button type="button" class="btn btn-outline btn-success">09月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=10">
+                                <button type="button" class="btn btn-outline btn-info">10月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=11">
+                                <button type="button" class="btn btn-outline btn-warning">11月</button>
+                            </a>
+                            <a href="<?php echo U('gas');?>?month=12">
+                                <button type="button" class="btn btn-outline btn-danger">12月</button>
+                            </a>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="flot-chart">
+                                <div id="line" style="width: 105%; height: 105%" class="flot-chart-content">  </div>
+                                <script type="text/javascript">
+
+                                    var fileLocation ='/MonkeyGuard/Public/echart/js/echarts';
+                                    require.config({
+
+                                        paths:{
+                                            echarts: fileLocation,
+                                            'echarts/chart/line': fileLocation,
+                                            'echarts/chart/bar': fileLocation,
+                                            'echarts/chart/pie': fileLocation
+                                        }
+                                    });
+
+                                    // 作为入口
+                                    require(
+                                            [
+                                                'echarts',
+                                                'echarts/chart/line'
+                                            ],
+
+                                            displayChart
+
+                                    );
+
+                                    function displayChart(ec) {
+                                        //折线图
+                                        var lineChart = ec.init(document.getElementById('line'));
+                                        var lineChartOtion = getLineChartOption();
+                                        lineChart.setOption(lineChartOtion);
+                                    }
+
+                                    //获得Line图的选项和数据
+                                    function getLineChartOption(){
+                                        var lineChartOption = {
+                                            tooltip : {
+                                                trigger: 'axis'
+                                            },
+
+                                            legend: {
+                                                orient: 'horizontal', // 'vertical'
+                                                x: 'right', // 'center' | 'left' | {number},
+                                                y: 'top', // 'center' | 'bottom' | {number}
+                                                backgroundColor: '#eee',
+                                                borderColor: 'rgba(178,34,34,0.8)',
+                                                borderWidth: 4,
+                                                padding: 10,    // [5, 10, 15, 20]
+                                                itemGap: 20,
+                                                textStyle: {color: 'red'},
+                                                selected: {
+                                                    '火焰' : true
+                                                },
+
+                                            },
+                                            xAxis :{
+                                                data : [<?php echo ($dataM); ?>]
+                                            },
+                                            yAxis : [
+                                                {
+                                                    type : 'value',
+                                                    axisLabel : {
+                                                        formatter: '{value} '
+                                                    },
+                                                    splitLine : {show : true}
+                                                }
+                                            ],
+
+                                            series : [
+                                                {
+                                                    name:'最高',
+                                                    type:'line',
+                                                    yAxisIndex: 0,
+                                                    data:[<?php echo ($dataMax); ?>]
+                                                },
+                                                {
+                                                    name:'最低',
+                                                    type:'line',
+                                                    yAxisIndex: 0,
+                                                    data:[<?php echo ($dataMin); ?>]
+                                                }
+                                            ]
+                                        };
+
+                                        return lineChartOption;
+                                    }
+
+                                </script>
+
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+
+                        <div class="panel-heading">
+                            <i class="fa fa-bar-chart-o fa-fw"></i> 异常天数所占比例
+                            <div class="pull-right">
+                                <div class="btn-group">
+                                    <button type="button" class="" >
+                                        <?php echo ($mname); ?>
+                                        <span class="caret"></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <div class="panel-body">
+                                        <div class="flot-chart">
+                                            <div style="width: 300%; height: 100%" class="flot-chart-content" id="flot-pie-chart"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- /.panel-body -->
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            本年每月平均值
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="flot-chart">
+                                <div class="flot-chart-content" id="flot-bar-chart"></div>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+
+                <!-- /.col-lg-6 -->
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            火焰
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <p>提防家中火焰</p>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-6 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /#page-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="/MonkeyGuard/Public/vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/MonkeyGuard/Public/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="/MonkeyGuard/Public/vendor/metisMenu/metisMenu.min.js"></script>
+
+    <!-- Flot Charts JavaScript -->
+    <script src="/MonkeyGuard/Public/vendor/flot/excanvas.min.js"></script>
+    <script src="/MonkeyGuard/Public/vendor/flot/jquery.flot.js"></script>
+    <script src="/MonkeyGuard/Public/vendor/flot/jquery.flot.pie.js"></script>
+    <script src="/MonkeyGuard/Public/vendor/flot/jquery.flot.resize.js"></script>
+    <script src="/MonkeyGuard/Public/vendor/flot/jquery.flot.time.js"></script>
+    <script src="/MonkeyGuard/Public/vendor/flot-tooltip/jquery.flot.tooltip.min.js"></script>
+    <!--<script src="../data/flot-data.js"></script>-->
+    <script src="/MonkeyGuard/Public/echart/js/esl/esl.js"></script>
+
+    <script type="text/javascript">
+        //Flot Line Chart
+        $(document).ready(function() {
+
+            var offset = 0;
+            plot();
+
+            function plot() {
+                var x = [];
+                var w = [];
+                var a = [<?php echo ($data0); ?>]
+                var b =[<?php echo ($dataD); ?>];
+                var c = [<?php echo ($dataN); ?>];
+                for (var i = 0; i < <?php echo ($n); ?>; i ++) {
+                    x.push([a[i], b[i]]);
+                    w.push([a[i], c[i]]);
+                }
+
+                var options = {
+                    series: {
+                        lines: {
+                            show: true
+                        },
+                        points: {
+                            show: true
+                        }
+                    },
+                    grid: {
+                        hoverable: true //IMPORTANT! this is needed for tooltip to work
+                    },
+                    yaxis: {
+                        type: 'value'
+                    },
+                    tooltip: true,
+                    tooltipOpts: {
+                        content: "%x.0点的%s是 %y.0",
+                        shifts: {
+                            x: 60,
+                            y: 60
+                        }
+                    }
+                };
+
+                var plotObj = $.plot($("#flot-line-chart"), [{
+                            data: x,
+                            label: "平均值"
+                        },{
+                    data: w,
+                    label: "正常值"
+                }],
+                        options);
+            }
+        });
+
+        //Flot Pie Chart
+        $(function() {
+
+            var data = [{
+                label: "异常",
+                data: <?php echo ($rate); ?>
+            }, {
+                label: "正常",
+                data: 100-<?php echo ($rate); ?>
+            }];
+
+            var plotObj = $.plot($("#flot-pie-chart"), data, {
+                series: {
+                    pie: {
+                        show: true
+                    }
+                },
+                grid: {
+                    hoverable: true
+                },
+                tooltip: true,
+                tooltipOpts: {
+                    content: "%p.0%, %s", // show percentages, rounding to 2 decimal places
+                    shifts: {
+                        x: 20,
+                        y: 0
+                    },
+                    defaultTheme: false
+                }
+            });
+
+        });
+
+        //Flot Bar Chart
+
+        $(function() {
+
+            var barOptions = {
+                series: {
+                    bars: {
+                        show: true,
+                        barWidth: 1296000000
+                    }
+                },
+                xaxis: {
+                    mode: "time",
+                    timeformat: "%y/%m",
+                    minTickSize: [1, "day"]
+                },
+                grid: {
+                    hoverable: true
+                },
+                legend: {
+                    show: false
+                },
+                tooltip: true,
+                tooltipOpts: {
+                    content: "%x月 平均值：%y.1"
+                }
+            };
+            var barData = {
+                label: "bar",
+                data: [<?php echo ($dataY); ?>]
+            };
+            $.plot($("#flot-bar-chart"), [barData], barOptions);
+
+        });
+
+    </script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/MonkeyGuard/Public/dist/js/sb-admin-2.js"></script>
+
+</body>
+
+</html>

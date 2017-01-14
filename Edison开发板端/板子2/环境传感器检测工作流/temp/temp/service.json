@@ -1,0 +1,34 @@
+{
+  "type": "hope_service",
+  "name": "temp",
+  "description": "",
+  "spec": {
+    "in": {
+      "ports": [
+        {
+          "name": "trigger",
+          "type": "any"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "value",
+          "type": "number"
+        }
+      ]
+    },
+    "config": [
+      {
+        "name": "pin",
+        "type": "int",
+        "required": true
+      }
+    ],
+    "name": "temp",
+    "id": "SPEC__85960630-a2b9-11e6-a280-7f10317717ed"
+  },
+  "id": "HOPE_SERVICE_82538560_a2b9_11e6_86f5_458c6f4b7c73",
+  "thing": "HOPE_THING_76cd14e0_a2b9_11e6_86f5_458c6f4b7c73"
+}

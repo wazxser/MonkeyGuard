@@ -1,0 +1,52 @@
+{
+  "type": "hope_service",
+  "name": "mqtt",
+  "description": "",
+  "spec": {
+    "in": {
+      "ports": [
+        {
+          "name": "temp",
+          "type": "any"
+        },
+        {
+          "name": "fire",
+          "type": "any"
+        },
+        {
+          "name": "fog",
+          "type": "any"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "value",
+          "type": "string"
+        }
+      ]
+    },
+    "config": [
+      {
+        "name": "host",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "port",
+        "type": "int",
+        "required": true
+      },
+      {
+        "name": "client_id",
+        "type": "string",
+        "required": true
+      }
+    ],
+    "name": "mqtt",
+    "id": "SPEC__683a2fb0-7b51-11e6-ac84-99acea6e449c"
+  },
+  "id": "HOPE_SERVICE_667bdde0_7b51_11e6_9007_831e17190169",
+  "thing": "HOPE_THING_56038ee0_7b51_11e6_9007_831e17190169"
+}

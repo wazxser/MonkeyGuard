@@ -1,0 +1,31 @@
+{
+  "type": "hope_service",
+  "name": "SendImage",
+  "description": "",
+  "spec": {
+    "in": {
+      "ports": [
+        {
+          "name": "in1",
+          "type": "string"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "out1",
+          "type": "string"
+        },
+        {
+          "name": "out2",
+          "type": "string"
+        }
+      ]
+    },
+    "name": "SendImage",
+    "id": "SPEC__a92f8b20-7a4b-11e6-a0c7-dd228c866326"
+  },
+  "id": "HOPE_SERVICE_f6106d20_79d7_11e6_968c_ad79a0a9cc84",
+  "thing": "HOPE_THING_ebdba9f0_79d7_11e6_968c_ad79a0a9cc84"
+}

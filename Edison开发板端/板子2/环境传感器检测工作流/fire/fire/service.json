@@ -1,0 +1,34 @@
+{
+  "type": "hope_service",
+  "name": "fire",
+  "description": "",
+  "spec": {
+    "in": {
+      "ports": [
+        {
+          "name": "trigger",
+          "type": "any"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "value",
+          "type": "number"
+        }
+      ]
+    },
+    "config": [
+      {
+        "name": "pin",
+        "type": "int",
+        "required": true
+      }
+    ],
+    "name": "fire",
+    "id": "SPEC__ec7eef10-a2b9-11e6-a280-7f10317717ed"
+  },
+  "id": "HOPE_SERVICE_e9482e10_a2b9_11e6_86f5_458c6f4b7c73",
+  "thing": "HOPE_THING_e36d9d40_a2b9_11e6_86f5_458c6f4b7c73"
+}

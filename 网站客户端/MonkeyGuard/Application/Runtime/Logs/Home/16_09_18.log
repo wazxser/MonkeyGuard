@@ -1,0 +1,197 @@
+[ 2016-09-18T17:13:34+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0343s ]
+NOTIC: [8] Undefined index: begin D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 161 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0188s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.3447s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 181 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 182 行.
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 183 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.2259s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0487s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0258s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0251s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0449s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0238s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.1472s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0199s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0872s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.1235s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0174s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0241s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003303s ]
+
+[ 2016-09-18T17:13:38+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0168s ]
+NOTIC: [8] Undefined index: begin D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 230 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0241s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0154s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 251 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 252 行.
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 253 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0160s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0866s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0187s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0134s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0147s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0169s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.1315s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0568s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.2917s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0168s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0380s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000412s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001557s ]
+
+[ 2016-09-18T17:13:40+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0177s ]
+NOTIC: [8] Undefined index: begin D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 161 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0181s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0155s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 181 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 182 行.
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 183 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0136s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0136s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0213s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0132s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0161s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0222s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0139s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0151s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0163s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0157s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0139s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fire' LIMIT 1   [ RunTime:0.0134s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-09-18T17:13:41+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0173s ]
+NOTIC: [8] Undefined index: begin D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 230 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0145s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-12 00:00:00' AND `time` <= '2016-09-12 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0130s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 251 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 252 行.
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 253 行.
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0137s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-13 00:00:00' AND `time` <= '2016-09-13 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0177s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0157s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-14 00:00:00' AND `time` <= '2016-09-14 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0136s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0134s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-15 00:00:00' AND `time` <= '2016-09-15 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0139s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0176s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-16 00:00:00' AND `time` <= '2016-09-16 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0143s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0146s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-17 00:00:00' AND `time` <= '2016-09-17 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0155s ]
+SQL: SELECT MAX(num) AS tp_max FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0132s ]
+SQL: SELECT MIN(num) AS tp_min FROM `home` WHERE ( `time` >= '2016-09-18 00:00:00' AND `time` <= '2016-09-18 23:59:59'  ) AND `sensor` = 'fog' LIMIT 1   [ RunTime:0.0176s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-09-18T17:13:42+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2016-09-18T17:13:43+08:00 ] ::1 /monkeyguard/index.php/Home/Index/contact.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [8] Undefined index: name D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 302 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+

@@ -1,0 +1,34 @@
+{
+  "type": "hope_service",
+  "name": "fog",
+  "description": "",
+  "spec": {
+    "name": "fog",
+    "in": {
+      "ports": [
+        {
+          "name": "trigger",
+          "type": "any"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "value",
+          "type": "number"
+        }
+      ]
+    },
+    "config": [
+      {
+        "name": "pin",
+        "type": "int",
+        "required": true
+      }
+    ],
+    "id": "SPEC__2c32bcb0-7a4a-11e6-bde0-e34b4cd35b79"
+  },
+  "id": "HOPE_SERVICE_7927c2f0_79d6_11e6_83f5_734d7b1d5b9c",
+  "thing": "HOPE_THING_5a382510_79d6_11e6_83f5_734d7b1d5b9c"
+}

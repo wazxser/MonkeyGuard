@@ -1,0 +1,33 @@
+{
+  "type": "hope_service",
+  "name": "infrared",
+  "description": "",
+  "spec": {
+    "name": "infrared",
+    "in": {
+      "ports": [
+        {
+          "name": "trigger"
+        }
+      ]
+    },
+    "out": {
+      "ports": [
+        {
+          "name": "value",
+          "type": "number"
+        }
+      ]
+    },
+    "config": [
+      {
+        "name": "pin",
+        "type": "int",
+        "required": true
+      }
+    ],
+    "id": "SPEC__eb5c7db0-7a6d-11e6-9af9-b72a911ba81a"
+  },
+  "id": "HOPE_SERVICE_65fef390_79ce_11e6_808b_6dbae79f082a",
+  "thing": "HOPE_THING_56fd6610_79ce_11e6_808b_6dbae79f082a"
+}

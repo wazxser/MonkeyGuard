@@ -1,0 +1,2289 @@
+[ 2016-09-13T00:03:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-09-13T00:08:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2016-09-13T00:14:14+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-09-13T00:14:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-09-13T00:15:02+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007150s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007185s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-09-13T00:16:09+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-09-13T00:17:14+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001770s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001034s ]
+
+[ 2016-09-13T00:29:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009873s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000795s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2016-09-13T00:32:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-09-13T00:32:16+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000756s ]
+
+[ 2016-09-13T00:32:28+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-09-13T00:32:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-09-13T00:33:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2016-09-13T00:33:19+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-09-13T00:33:32+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-09-13T00:33:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008302s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-09-13T00:34:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: humid D:\xampp\htdocs\MonkeyGuard\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 319 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-09-13T00:36:08+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined variable: fog D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined variable: gas D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 13 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002781s ]
+
+[ 2016-09-13T00:37:14+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-09-13T00:37:51+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0157s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 00:32:51' AND `time` <= '2016-09-13 00:37:51'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0174s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 00:32:51' AND `time` <= '2016-09-13 00:37:51'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005211s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2016-09-13T00:37:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0163s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 00:32:56' AND `time` <= '2016-09-13 00:37:56'  ) AND `sensor` = 'fog' GROUP BY time ORDER BY time ASC  [ RunTime:0.0152s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 171 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 00:32:56' AND `time` <= '2016-09-13 00:37:56'  ) AND `sensor` = 'fog' GROUP BY time ORDER BY time ASC  [ RunTime:0.0185s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 181 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 184 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-09-13T00:37:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2016-09-13T00:39:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/video.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-09-13T00:39:24+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2016-09-13T00:39:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2016-09-13T00:40:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-09-13T00:40:27+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-09-13T00:40:37+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-09-13T00:40:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-09-13T00:41:02+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-09-13T00:42:12+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-09-13T00:42:37+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-09-13T00:42:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2016-09-13T00:42:49+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-09-13T00:42:57+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000365s ]
+
+[ 2016-09-13T00:43:21+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-09-13T00:43:39+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001082s ]
+
+[ 2016-09-13T00:43:53+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-09-13T00:44:16+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2016-09-13T00:44:35+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2016-09-13T10:09:08+08:00 ] ::1 /monkeyguard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001412s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001113s ]
+
+[ 2016-09-13T10:09:12+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001593s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0829s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:04:11' AND `time` <= '2016-09-13 10:09:11'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0844s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:04:11' AND `time` <= '2016-09-13 10:09:11'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0622s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-09-13T10:09:13+08:00 ] ::1 /monkeyguard/index.php/Home/Index/gas.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0138s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:04:13' AND `time` <= '2016-09-13 10:09:13'  ) AND `sensor` = 'fog' GROUP BY time ORDER BY time ASC  [ RunTime:0.0135s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 171 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:04:13' AND `time` <= '2016-09-13 10:09:13'  ) AND `sensor` = 'fog' GROUP BY time ORDER BY time ASC  [ RunTime:0.0159s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 181 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 184 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-09-13T10:09:16+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-09-13T10:10:13+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0185s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:05:13' AND `time` <= '2016-09-13 10:10:13'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0516s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:05:13' AND `time` <= '2016-09-13 10:10:13'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0138s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002518s ]
+
+[ 2016-09-13T10:10:34+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0145s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:05:34' AND `time` <= '2016-09-13 10:10:34'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:05:34' AND `time` <= '2016-09-13 10:10:34'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0137s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2016-09-13T10:10:55+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0144s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:05:54' AND `time` <= '2016-09-13 10:10:54'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0169s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:05:54' AND `time` <= '2016-09-13 10:10:54'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0152s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000256s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000488s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001811s ]
+
+[ 2016-09-13T10:11:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0140s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:06:15' AND `time` <= '2016-09-13 10:11:15'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0147s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:06:15' AND `time` <= '2016-09-13 10:11:15'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0618s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000284s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000497s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2016-09-13T10:11:36+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0154s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:06:36' AND `time` <= '2016-09-13 10:11:36'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0173s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:06:36' AND `time` <= '2016-09-13 10:11:36'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0192s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000258s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000487s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001675s ]
+
+[ 2016-09-13T10:11:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0137s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:06:56' AND `time` <= '2016-09-13 10:11:56'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0172s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:06:56' AND `time` <= '2016-09-13 10:11:56'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0133s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-09-13T10:12:18+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000431s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0436s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:07:17' AND `time` <= '2016-09-13 10:12:17'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0420s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:07:17' AND `time` <= '2016-09-13 10:12:17'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.5209s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-09-13T10:12:39+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0152s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:07:39' AND `time` <= '2016-09-13 10:12:39'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0135s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:07:39' AND `time` <= '2016-09-13 10:12:39'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-09-13T10:12:59+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0148s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:07:59' AND `time` <= '2016-09-13 10:12:59'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0145s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:07:59' AND `time` <= '2016-09-13 10:12:59'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2016-09-13T10:13:20+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0558s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:08:20' AND `time` <= '2016-09-13 10:13:20'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0146s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:08:20' AND `time` <= '2016-09-13 10:13:20'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0158s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001263s ]
+
+[ 2016-09-13T10:13:41+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0221s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:08:40' AND `time` <= '2016-09-13 10:13:40'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0723s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:08:40' AND `time` <= '2016-09-13 10:13:40'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0209s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001717s ]
+
+[ 2016-09-13T10:14:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001043s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0144s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:09:01' AND `time` <= '2016-09-13 10:14:01'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0157s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:09:01' AND `time` <= '2016-09-13 10:14:01'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0560s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020140s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2016-09-13T10:14:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0213s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:09:21' AND `time` <= '2016-09-13 10:14:21'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0215s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:09:21' AND `time` <= '2016-09-13 10:14:21'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0229s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2016-09-13T10:14:42+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0141s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:09:42' AND `time` <= '2016-09-13 10:14:42'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:09:42' AND `time` <= '2016-09-13 10:14:42'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0137s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021828s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021974s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002114s ]
+
+[ 2016-09-13T10:15:03+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0147s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:10:03' AND `time` <= '2016-09-13 10:15:03'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:10:03' AND `time` <= '2016-09-13 10:15:03'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017631s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001267s ]
+
+[ 2016-09-13T10:15:23+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0943s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:10:23' AND `time` <= '2016-09-13 10:15:23'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0153s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:10:23' AND `time` <= '2016-09-13 10:15:23'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0235s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000442s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000783s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
+
+[ 2016-09-13T10:15:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0143s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:10:44' AND `time` <= '2016-09-13 10:15:44'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0142s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:10:44' AND `time` <= '2016-09-13 10:15:44'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0138s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001496s ]
+
+[ 2016-09-13T10:16:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0161s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:11:05' AND `time` <= '2016-09-13 10:16:05'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0754s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:11:05' AND `time` <= '2016-09-13 10:16:05'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0147s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2016-09-13T10:16:26+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0237s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:11:26' AND `time` <= '2016-09-13 10:16:26'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0175s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:11:26' AND `time` <= '2016-09-13 10:16:26'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000297s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001255s ]
+
+[ 2016-09-13T10:16:47+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0179s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:11:47' AND `time` <= '2016-09-13 10:16:47'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0167s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:11:47' AND `time` <= '2016-09-13 10:16:47'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0293s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-09-13T10:17:07+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0145s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:12:07' AND `time` <= '2016-09-13 10:17:07'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0209s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:12:07' AND `time` <= '2016-09-13 10:17:07'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0240s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001291s ]
+
+[ 2016-09-13T10:17:28+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0152s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:12:28' AND `time` <= '2016-09-13 10:17:28'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0174s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:12:28' AND `time` <= '2016-09-13 10:17:28'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0144s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002575s ]
+
+[ 2016-09-13T10:17:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0259s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:12:49' AND `time` <= '2016-09-13 10:17:49'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0328s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:12:49' AND `time` <= '2016-09-13 10:17:49'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0148s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001540s ]
+
+[ 2016-09-13T10:18:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0240s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:13:11' AND `time` <= '2016-09-13 10:18:11'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:13:11' AND `time` <= '2016-09-13 10:18:11'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0213s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000274s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000521s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021077s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001274s ]
+
+[ 2016-09-13T10:18:32+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0177s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:13:32' AND `time` <= '2016-09-13 10:18:32'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0152s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:13:32' AND `time` <= '2016-09-13 10:18:32'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000327s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-09-13T10:18:54+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0204s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:13:53' AND `time` <= '2016-09-13 10:18:53'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0182s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:13:53' AND `time` <= '2016-09-13 10:18:53'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0157s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001246s ]
+
+[ 2016-09-13T10:19:15+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001828s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0143s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:14:15' AND `time` <= '2016-09-13 10:19:15'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0142s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:14:15' AND `time` <= '2016-09-13 10:19:15'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001262s ]
+
+[ 2016-09-13T10:19:36+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0145s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:14:36' AND `time` <= '2016-09-13 10:19:36'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0144s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:14:36' AND `time` <= '2016-09-13 10:19:36'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2016-09-13T10:19:58+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001604s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0144s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:14:57' AND `time` <= '2016-09-13 10:19:57'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0143s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:14:57' AND `time` <= '2016-09-13 10:19:57'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0157s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2016-09-13T10:20:19+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0146s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:15:19' AND `time` <= '2016-09-13 10:20:19'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0145s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:15:19' AND `time` <= '2016-09-13 10:20:19'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0162s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001169s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2016-09-13T10:20:40+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0146s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:15:40' AND `time` <= '2016-09-13 10:20:40'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:15:40' AND `time` <= '2016-09-13 10:20:40'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0176s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001973s ]
+
+[ 2016-09-13T10:21:01+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001690s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0204s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:16:01' AND `time` <= '2016-09-13 10:21:01'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0247s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:16:01' AND `time` <= '2016-09-13 10:21:01'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001539s ]
+
+[ 2016-09-13T10:21:22+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0147s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:16:22' AND `time` <= '2016-09-13 10:21:22'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0219s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:16:22' AND `time` <= '2016-09-13 10:21:22'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0159s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001372s ]
+
+[ 2016-09-13T10:21:43+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0149s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:16:43' AND `time` <= '2016-09-13 10:21:43'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0136s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:16:43' AND `time` <= '2016-09-13 10:21:43'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-09-13T10:22:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0155s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:17:04' AND `time` <= '2016-09-13 10:22:04'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0175s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:17:04' AND `time` <= '2016-09-13 10:22:04'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0146s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002016s ]
+
+[ 2016-09-13T10:22:44+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:3.6989s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:17:25' AND `time` <= '2016-09-13 10:22:25'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.5121s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:17:25' AND `time` <= '2016-09-13 10:22:25'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.8495s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002053s ]
+
+[ 2016-09-13T10:23:05+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0144s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:18:05' AND `time` <= '2016-09-13 10:23:05'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:18:05' AND `time` <= '2016-09-13 10:23:05'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0172s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2016-09-13T10:23:29+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0308s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:18:26' AND `time` <= '2016-09-13 10:23:26'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0147s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:18:26' AND `time` <= '2016-09-13 10:23:26'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0264s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001237s ]
+
+[ 2016-09-13T10:23:50+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0142s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:18:49' AND `time` <= '2016-09-13 10:23:49'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0163s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:18:49' AND `time` <= '2016-09-13 10:23:49'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0163s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2016-09-13T10:24:11+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0139s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:19:10' AND `time` <= '2016-09-13 10:24:10'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0151s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:19:10' AND `time` <= '2016-09-13 10:24:10'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0143s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-09-13T10:24:31+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0152s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:19:31' AND `time` <= '2016-09-13 10:24:31'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:19:31' AND `time` <= '2016-09-13 10:24:31'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0138s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000975s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001540s ]
+
+[ 2016-09-13T10:24:52+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0146s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:19:52' AND `time` <= '2016-09-13 10:24:52'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0148s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:19:52' AND `time` <= '2016-09-13 10:24:52'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002183s ]
+
+[ 2016-09-13T10:25:13+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0140s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:20:13' AND `time` <= '2016-09-13 10:25:13'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0135s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:20:13' AND `time` <= '2016-09-13 10:25:13'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0480s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001541s ]
+
+[ 2016-09-13T10:25:34+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0137s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:20:34' AND `time` <= '2016-09-13 10:25:34'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0164s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:20:34' AND `time` <= '2016-09-13 10:25:34'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0189s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023481s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002016s ]
+
+[ 2016-09-13T10:25:56+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001717s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0230s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:20:55' AND `time` <= '2016-09-13 10:25:55'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:20:55' AND `time` <= '2016-09-13 10:25:55'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0137s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2016-09-13T10:26:18+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001430s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0151s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:21:17' AND `time` <= '2016-09-13 10:26:17'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0159s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:21:17' AND `time` <= '2016-09-13 10:26:17'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0182s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017235s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2016-09-13T10:26:39+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0207s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:21:39' AND `time` <= '2016-09-13 10:26:39'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0152s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:21:39' AND `time` <= '2016-09-13 10:26:39'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0174s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2016-09-13T10:27:00+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0167s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:22:00' AND `time` <= '2016-09-13 10:27:00'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:22:00' AND `time` <= '2016-09-13 10:27:00'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0177s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000297s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001525s ]
+
+[ 2016-09-13T10:27:21+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0323s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:22:21' AND `time` <= '2016-09-13 10:27:21'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0140s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:22:21' AND `time` <= '2016-09-13 10:27:21'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0141s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000281s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020769s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2016-09-13T10:27:43+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0170s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:22:42' AND `time` <= '2016-09-13 10:27:42'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0162s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:22:42' AND `time` <= '2016-09-13 10:27:42'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0160s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025190s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001247s ]
+
+[ 2016-09-13T10:28:02+08:00 ] ::1 /monkeyguard/index.php/Home/Index/fog.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `home` [ RunTime:0.0150s ]
+SQL: SELECT `time` FROM `home` WHERE ( `time` > '2016-09-13 10:23:02' AND `time` <= '2016-09-13 10:28:02'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data0 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 136 行.
+SQL: SELECT `num` FROM `home` WHERE ( `time` > '2016-09-13 10:23:02' AND `time` <= '2016-09-13 10:28:02'  ) AND `sensor` = 'fire' GROUP BY time ORDER BY time ASC  [ RunTime:0.0139s ]
+NOTIC: [8] Undefined variable: data D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 146 行.
+NOTIC: [8] Undefined variable: data1 D:\xampp\htdocs\MonkeyGuard\Application\Home\Controller\IndexController.class.php 第 147 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001645s ]
+
+[ 2016-09-13T10:28:04+08:00 ] ::1 /monkeyguard/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-09-13T22:41:41+08:00 ] ::1 /monkeyguard/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001805s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002018s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
